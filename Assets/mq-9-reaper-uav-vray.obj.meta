@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 15bead2b22ba54d4c82d59f9293d2bc6
+timeCreated: 1428585282
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: aileron_L
+    100002: aileron_r
+    100004: elevator
+    100006: front_gear
+    100008: fuselage
+    100010: lg_L01_pivot
+    100012: lg_L02_pivot
+    100014: lg_R01_pivot
+    100016: lg_R02_pivot
+    100018: Light_Green
+    100020: Light_Red
+    100022: Light_Red_Rear
+    100024: missile_L_pivot
+    100026: missile_R_pivot
+    100028: //RootNode
+    100030: Plane
+    100032: propeller
+    100034: rear_control01_pivot
+    100036: rear_control02_pivot
+    100038: rudder
+    100040: rudder_control_pivot
+    400000: aileron_L
+    400002: aileron_r
+    400004: elevator
+    400006: front_gear
+    400008: fuselage
+    400010: lg_L01_pivot
+    400012: lg_L02_pivot
+    400014: lg_R01_pivot
+    400016: lg_R02_pivot
+    400018: Light_Green
+    400020: Light_Red
+    400022: Light_Red_Rear
+    400024: missile_L_pivot
+    400026: missile_R_pivot
+    400028: //RootNode
+    400030: Plane
+    400032: propeller
+    400034: rear_control01_pivot
+    400036: rear_control02_pivot
+    400038: rudder
+    400040: rudder_control_pivot
+    2300000: aileron_L
+    2300002: aileron_r
+    2300004: elevator
+    2300006: front_gear
+    2300008: fuselage
+    2300010: lg_L01_pivot
+    2300012: lg_L02_pivot
+    2300014: lg_R01_pivot
+    2300016: lg_R02_pivot
+    2300018: Light_Green
+    2300020: Light_Red
+    2300022: Light_Red_Rear
+    2300024: missile_L_pivot
+    2300026: missile_R_pivot
+    2300028: Plane
+    2300030: propeller
+    2300032: rear_control01_pivot
+    2300034: rear_control02_pivot
+    2300036: rudder
+    2300038: rudder_control_pivot
+    3300000: aileron_L
+    3300002: aileron_r
+    3300004: elevator
+    3300006: front_gear
+    3300008: fuselage
+    3300010: lg_L01_pivot
+    3300012: lg_L02_pivot
+    3300014: lg_R01_pivot
+    3300016: lg_R02_pivot
+    3300018: Light_Green
+    3300020: Light_Red
+    3300022: Light_Red_Rear
+    3300024: missile_L_pivot
+    3300026: missile_R_pivot
+    3300028: Plane
+    3300030: propeller
+    3300032: rear_control01_pivot
+    3300034: rear_control02_pivot
+    3300036: rudder
+    3300038: rudder_control_pivot
+    4300000: aileron_L
+    4300002: aileron_r
+    4300004: elevator
+    4300006: front_gear
+    4300008: fuselage
+    4300010: lg_L01_pivot
+    4300012: lg_L02_pivot
+    4300014: lg_R01_pivot
+    4300016: lg_R02_pivot
+    4300018: Light_Green
+    4300020: Light_Red
+    4300022: Light_Red_Rear
+    4300024: missile_L_pivot
+    4300026: missile_R_pivot
+    4300028: Plane
+    4300030: propeller
+    4300032: rear_control01_pivot
+    4300034: rear_control02_pivot
+    4300036: rudder
+    4300038: rudder_control_pivot
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
