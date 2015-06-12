@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\AutoPilot.cs" />
+     <Compile Include="Assets\CameraControl.cs" />
+     <Compile Include="Assets\CameraControl1.cs" />
      <Compile Include="Assets\DroneCamera.cs" />
      <Compile Include="Assets\DroneCamera2.cs" />
      <Compile Include="Assets\GUICrossHair.cs" />

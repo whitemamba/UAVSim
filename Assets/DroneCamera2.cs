@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class DroneCamera2 : MonoBehaviour {
@@ -27,14 +27,14 @@ public class DroneCamera2 : MonoBehaviour {
 		transform.Rotate (0, rotLeftRight, 0);
 		
 		var x = Screen.width / 4;
-		var y = Screen.height / 2;
+		var y = Screen.height*1 / 4;
 		var ray = GetComponent<Camera>().ScreenPointToRay(new Vector3(x, y, 0));
 		if (Physics.SphereCast (ray.origin, 10.0f, ray.direction, out hit)) {
 			
 			if (hit.collider.tag=="Tank"){
 				hitSeconds += 1*Time.deltaTime;
 				
-				if (hitSeconds >= 1.0f){
+				if (hitSeconds >= 0.5f){
 					hit.collider.tag="Tank_Marked";
 					Debug.Log("Marked Tank!!");}
 			}
